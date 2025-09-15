@@ -10,7 +10,7 @@ int main()
 	{
 	  printf("have you passed the interview?");
 	  scanf("%s", result);
-	  if (strcmp(result, "yes")==1)
+	  if (strcmp(result, "yes")==0)
 	  {
 	  	printf("congratulations you are hired!");
 	  }	
