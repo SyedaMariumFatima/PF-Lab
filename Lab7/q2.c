@@ -15,3 +15,4 @@ int main()
 	int avg=total/10;
 	printf("average is %d");
 }
+
